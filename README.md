@@ -6,5 +6,6 @@ The jupyter notebook is divided into 3 cells:
 - The next cell contains all the function definitions used in our code
 - The last cell contains the function definition of the gui and the main code to run the gui
 
-Do maximize the gui for a good user experience
+Do maximize the gui for a good user experience.
+
 The first window is scrollable to see the Cl vs alpha plot button
